@@ -1,0 +1,33 @@
+
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.formContainer
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border:1px solid black;
+    height: 400px;
+    width: 400px;
+    background-color: beige;
+}
+ .xyz
+{
+    width: 300px;
+    height: 30px;
+    margin-top: 20px;
+    background-color: antiquewhite;
+}
+.Form1
+{
+    margin-top: -570px;
+    height: "100%";
+    width:410px;
+    margin-left: 1100px;
+    background-color: beige;
+
+} 

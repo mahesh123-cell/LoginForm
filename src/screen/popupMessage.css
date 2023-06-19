@@ -1,0 +1,12 @@
+.container
+{
+    height: 120px;
+    width: 300px;
+    background-color: blanchedalmond;
+    border: 1px solid black; 
+}
+.btn
+{
+margin-left: 60px;
+margin-top: 20px;
+}
